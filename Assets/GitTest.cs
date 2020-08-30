@@ -4,5 +4,5 @@ using UnityEngine;
 
 public class GitTest : MonoBehaviour
 {
-    private string str = "Second";
+    private string str = "Thrid";
 }
